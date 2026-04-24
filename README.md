@@ -9,6 +9,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Ahmeddew/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 ## Design
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Ahmeddew/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
