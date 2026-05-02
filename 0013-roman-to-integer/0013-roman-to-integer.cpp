@@ -11,20 +11,15 @@ public:
      mp['M']=1000;
       
      int ans=0;
-     for (int i = 0; i <s.size() ; ++i) {
-          if (mp[s[i]] == mp[s[i+1]] && mp[s[i+1]] == mp[s[i+2]]){
-           ans+= 3*mp[s[i]];
-           i+=2;
-          }
-          else if (mp[s[i]] < mp[s[i+1]]){
-              int sub;
-              sub=(mp[s[i+1]]-mp[s[i]]);
-              ans+=sub;
-              i++;
-           }else  {
-              ans+=mp[s[i]];
-           }
-     }
+     for (int i = 0; i < s.size(); i++) {
+            if ( mp[s[i]] < mp[s[i+1]]) {
+                ans += mp[s[i+1]] - mp[s[i]];
+                i++; // skip next
+            } else {
+                ans += mp[s[i]];
+            }
+        }
+
      return ans;
     }
 };
