@@ -27,10 +27,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
@@ -39,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Binary Search
 |  |
