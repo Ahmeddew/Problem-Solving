@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ahmeddew/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Ahmeddew/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Ahmeddew/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ahmeddew/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Ahmeddew/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
@@ -59,4 +61,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ahmeddew/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ahmeddew/Problem-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
