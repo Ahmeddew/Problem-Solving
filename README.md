@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ahmeddew/Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/Ahmeddew/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Ahmeddew/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Ahmeddew/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ahmeddew/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -73,5 +74,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Ahmeddew/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
