@@ -1,20 +1,19 @@
 class Solution {
 public:
     int minSwaps(string s) {
-        string  t; 
-     stack<char>st;
-    for (char ch : s) {
-        if (ch == '[') {
-            st.push(ch);
-        } else if (ch == ']') {
-            if (st.empty()){
-                t+=ch;
-                continue;
+        int open = 0, unmatched = 0;
+
+        for (char c : s) {
+            if (c == '[')
+                open++;
+            else {
+                if (open > 0)
+                    open--;
+                else
+                    unmatched++;
             }
-            st.pop();
         }
-    }
-     
- return ceil((st.size()*2)/4.0);
+
+        return (unmatched + 1) / 2;
     }
 };
