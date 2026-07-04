@@ -13,6 +13,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ahmeddew/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Ahmeddew/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ahmeddew/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ahmeddew/Problem-Solving/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Ahmeddew/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0392-is-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
