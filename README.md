@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ahmeddew/Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Ahmeddew/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ahmeddew/Problem-Solving/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Ahmeddew/Problem-Solving/tree/master/0118-pascals-triangle) |
@@ -119,6 +120,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Ahmeddew/Problem-Solving/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Ahmeddew/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0392-is-subsequence) |
