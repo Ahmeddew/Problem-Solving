@@ -26,6 +26,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ahmeddew/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Ahmeddew/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -62,6 +63,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
@@ -87,11 +89,13 @@
 | [0169-majority-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/0013-roman-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Binary Search
 |  |
