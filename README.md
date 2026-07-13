@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ahmeddew/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ahmeddew/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0027-remove-element) |
@@ -107,6 +108,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ahmeddew/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/Ahmeddew/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -128,6 +130,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ahmeddew/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Ahmeddew/Problem-Solving/tree/master/0075-sort-colors) |
