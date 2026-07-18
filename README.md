@@ -35,6 +35,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Ahmeddew/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ahmeddew/Problem-Solving/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Ahmeddew/Problem-Solving/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 ## Design
 |  |
@@ -193,4 +194,5 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ahmeddew/Problem-Solving/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
