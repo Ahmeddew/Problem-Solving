@@ -28,6 +28,7 @@
 | [0724-find-pivot-index](https://github.com/Ahmeddew/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
+| [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ahmeddew/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
@@ -211,4 +212,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
