@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ahmeddew/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Ahmeddew/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ahmeddew/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -68,6 +69,7 @@
 | [0169-majority-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ahmeddew/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Ahmeddew/Problem-Solving/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ahmeddew/Problem-Solving/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Monotonic Stack
