@@ -92,6 +92,7 @@
 | [0205-isomorphic-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Ahmeddew/Problem-Solving/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Ahmeddew/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sliding Window
@@ -242,4 +244,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ahmeddew/Problem-Solving/tree/master/0046-permutations) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
