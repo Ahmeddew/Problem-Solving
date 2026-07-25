@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/Ahmeddew/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ahmeddew/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Ahmeddew/Problem-Solving/tree/master/0605-can-place-flowers) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ahmeddew/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Ahmeddew/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -142,6 +144,7 @@
 | [0169-majority-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ahmeddew/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -168,6 +171,7 @@
 | [0118-pascals-triangle](https://github.com/Ahmeddew/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
