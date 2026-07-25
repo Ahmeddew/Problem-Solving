@@ -7,12 +7,10 @@ public:
             if ( freq.count(nums[i])){
             if  (abs(i-freq[nums[i]])<=k){
                 found =true;
-            }else {
-                freq[nums[i]]=i;
+                break;
+            } 
             }
-            }else {
-                 freq[nums[i]]= i;
-            }
+            freq[nums[i]]= i;
          }
          return found;
     }
