@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Ahmeddew/Problem-Solving/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ahmeddew/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ahmeddew/Problem-Solving/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Ahmeddew/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ahmeddew/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ahmeddew/Problem-Solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ahmeddew/Problem-Solving/tree/master/0217-contains-duplicate) |
