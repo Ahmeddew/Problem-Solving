@@ -113,6 +113,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/Ahmeddew/Problem-Solving/tree/master/0937-reorder-data-in-log-files) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Trie
 |  |
@@ -283,4 +285,5 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0912-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
