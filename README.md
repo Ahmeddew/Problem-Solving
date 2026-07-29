@@ -96,6 +96,7 @@
 | [0013-roman-to-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ahmeddew/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Ahmeddew/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ahmeddew/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0205-isomorphic-strings) |
@@ -180,6 +181,7 @@
 | [0011-container-with-most-water](https://github.com/Ahmeddew/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Ahmeddew/Problem-Solving/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ahmeddew/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
@@ -286,4 +288,8 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
