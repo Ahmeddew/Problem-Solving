@@ -116,6 +116,7 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
@@ -137,6 +138,7 @@
 | [1512-number-of-good-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -155,6 +157,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
