@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Ahmeddew/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Ahmeddew/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Ahmeddew/Problem-Solving/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ahmeddew/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0056-merge-intervals) |
@@ -145,6 +146,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ahmeddew/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ahmeddew/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Ahmeddew/Problem-Solving/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmeddew/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
