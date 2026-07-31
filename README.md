@@ -137,6 +137,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
 | [1399-count-largest-group](https://github.com/Ahmeddew/Problem-Solving/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/1512-number-of-good-pairs) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Ahmeddew/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ahmeddew/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ahmeddew/Problem-Solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Ahmeddew/Problem-Solving/tree/master/0704-binary-search) |
