@@ -16,12 +16,9 @@ public:
              if (i != 0 ){
                 ans.push_back(0);
              }else {
-                 if (i == 0 &&zeros == 1 ){
-                    ans.push_back(ProductWithoutZeros);
-                 }else {
-                    ans.push_back(0);
-                 }
-             }
+                    ans.push_back(ProductWithoutZeros * (zeros ==1) );
+                 }  
+                  
         }
         }
         return ans;
