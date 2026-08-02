@@ -57,6 +57,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ahmeddew/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Ahmeddew/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
+| [0981-time-based-key-value-store](https://github.com/Ahmeddew/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/Ahmeddew/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
+| [0981-time-based-key-value-store](https://github.com/Ahmeddew/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/Ahmeddew/Problem-Solving/tree/master/1399-count-largest-group) |
@@ -115,6 +117,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/Ahmeddew/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
 | [0937-reorder-data-in-log-files](https://github.com/Ahmeddew/Problem-Solving/tree/master/0937-reorder-data-in-log-files) |
+| [0981-time-based-key-value-store](https://github.com/Ahmeddew/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -158,6 +161,7 @@
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Ahmeddew/Problem-Solving/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ahmeddew/Problem-Solving/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Ahmeddew/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmeddew/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Greedy
