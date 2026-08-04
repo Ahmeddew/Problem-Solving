@@ -58,6 +58,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ahmeddew/Problem-Solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ahmeddew/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Ahmeddew/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Ahmeddew/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
@@ -267,6 +268,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Ahmeddew/Problem-Solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ahmeddew/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0682-baseball-game) |
