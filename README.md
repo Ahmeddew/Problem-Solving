@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Ahmeddew/Problem-Solving/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ahmeddew/Problem-Solving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Ahmeddew/Problem-Solving/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ahmeddew/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Ahmeddew/Problem-Solving/tree/master/0278-first-bad-version) |
@@ -339,4 +341,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ahmeddew/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ahmeddew/Problem-Solving/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
