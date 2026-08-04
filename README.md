@@ -55,6 +55,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ahmeddew/Problem-Solving/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Ahmeddew/Problem-Solving/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3731-find-missing-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [1512-number-of-good-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3731-find-missing-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
