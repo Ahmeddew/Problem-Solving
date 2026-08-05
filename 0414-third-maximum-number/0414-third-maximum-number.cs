@@ -1,15 +1,28 @@
 public class Solution {
-    public int ThirdMax(int[] nums) {
-        HashSet<int>st=new (nums);
-         List<int>ans=new();
-         foreach(int i in st){
-            ans.Add(i);
-         }
-         ans.Sort();
-         if (ans.Count <3){
-            return ans[ans.Count-1];
-         }
-         return ans[ans.Count-3];
-          
+        public int ThirdMax(int[] nums)
+        {
+            long first = long.MinValue;
+            long second = long.MinValue;
+           long third = long.MinValue;
+
+            foreach (int num in nums)
+            {
+                if (num == first || num ==second || num ==third)continue;
+                else if (num > first)
+                {
+                    third = second;
+                    second = first;
+                    first = num;
+                }else if (num > second)
+                {
+                    third = second;
+                    second = num;
+                }else if (num > third)
+                {
+                    third = num;
+                }
+            }
+
+            return  third == long.MinValue ? (int)first : (int)third;
+        }
     }
-}
