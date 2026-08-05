@@ -37,6 +37,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Ahmeddew/Problem-Solving/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ahmeddew/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0682-baseball-game) |
@@ -197,6 +198,7 @@
 | [0011-container-with-most-water](https://github.com/Ahmeddew/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [0561-array-partition](https://github.com/Ahmeddew/Problem-Solving/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ahmeddew/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -219,6 +221,7 @@
 | [0414-third-maximum-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/Ahmeddew/Problem-Solving/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/Ahmeddew/Problem-Solving/tree/master/0937-reorder-data-in-log-files) |
@@ -352,6 +355,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Ahmeddew/Problem-Solving/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
