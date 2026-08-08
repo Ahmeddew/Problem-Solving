@@ -1,25 +1,27 @@
 class Solution {
 public:
-bool isVowels(char c) {
-    return string("aeiouAEIOU").find(c) != string::npos;
-}
+    bool isVowel(char c) {
+        return string("aeiouAEIOU").find(c) != string::npos;
+    }
+
     string reverseVowels(string s) {
-        string vowels="",ans;
-        for(auto &c :s){
-         if (isVowels(c)){
-            vowels+=c;
-         }
-         }
-         
-        int idx=vowels.size()-1;
-        for (auto c :s ){
-        if (isVowels(c)){
-             ans+=vowels[idx--];
-        }else {
-            ans+=c;
+        int left = 0;
+        int right = s.size() - 1;
+
+        while (left < right) {
+
+            while (left < right && !isVowel(s[left]))
+                left++;
+
+            while (left < right && !isVowel(s[right]))
+                right--;
+
+            swap(s[left], s[right]);
+
+            left++;
+            right--;
         }
-        }
-        cout<<vowels;
-        return ans;
+
+        return s;
     }
 };
