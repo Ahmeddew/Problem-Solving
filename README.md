@@ -67,6 +67,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ahmeddew/Problem-Solving/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Ahmeddew/Problem-Solving/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3731-find-missing-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Design
@@ -125,6 +126,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -246,6 +248,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/3731-find-missing-elements) |
