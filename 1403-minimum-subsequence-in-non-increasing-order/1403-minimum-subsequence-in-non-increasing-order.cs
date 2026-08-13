@@ -12,12 +12,13 @@ public class Solution {
             for (int i = nums.Length-1; i >=0; i--)
             {
                 a += nums[i];
+                 ans.Add(nums[i]);
                 if (a > sum - a)
                 {
-                    ans.Add(nums[i]);
+                   
                     break;
                 }
-                ans.Add(nums[i]);
+               
                 
             }
 
