@@ -56,6 +56,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmeddew/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ahmeddew/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ahmeddew/Problem-Solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -228,6 +229,7 @@
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/Ahmeddew/Problem-Solving/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -252,6 +254,7 @@
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/Ahmeddew/Problem-Solving/tree/master/0937-reorder-data-in-log-files) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
