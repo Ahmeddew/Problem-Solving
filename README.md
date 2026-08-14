@@ -159,6 +159,7 @@
 | [0981-time-based-key-value-store](https://github.com/Ahmeddew/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Ahmeddew/Problem-Solving/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Ahmeddew/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -188,6 +189,7 @@
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Ahmeddew/Problem-Solving/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1399-count-largest-group](https://github.com/Ahmeddew/Problem-Solving/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -229,6 +231,7 @@
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/Ahmeddew/Problem-Solving/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Ahmeddew/Problem-Solving/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
