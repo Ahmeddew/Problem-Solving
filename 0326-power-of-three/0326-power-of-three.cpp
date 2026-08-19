@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool isPowerOfThree(int n) {
-        if (n ==1)return true;
-        long long l=1 ,r= n,mid,ans=-1;
+        if (n <=0)return false;
+        long long l=0 ,r= 20,mid;
         while (l<=r){
             mid= (l+r)/2;
             if (pow(3,mid)== n){
