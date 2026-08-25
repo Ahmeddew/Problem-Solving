@@ -131,6 +131,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/Ahmeddew/Problem-Solving/tree/master/1399-count-largest-group) |
+| [1496-path-crossing](https://github.com/Ahmeddew/Problem-Solving/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -172,6 +173,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Ahmeddew/Problem-Solving/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1496-path-crossing](https://github.com/Ahmeddew/Problem-Solving/tree/master/1496-path-crossing) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Ahmeddew/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
