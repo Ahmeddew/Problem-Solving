@@ -77,6 +77,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Ahmeddew/Problem-Solving/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
@@ -139,6 +140,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## String
 |  |
