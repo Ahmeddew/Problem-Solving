@@ -1,29 +1,21 @@
 class Solution {
 public:
-struct point {
-   int  x;
-    int y;
-    bool operator<(const point& other) const {
-        return tie(x, y) < tie(other.x, other.y);
-    }
-};
-    bool isPathCrossing(string s) {
-      set<point>st;
-      point p{0,0};
-      st.insert(p);
-    for (int i = 0; i <s.size() ; ++i) {
-        
-        if (s[i] == 'N')p.y++;
-        else if (s[i] == 'S')p.y--;
-        else if (s[i] == 'E')p.x++;
-        else p.x--;
-        if (!st.count(p))
-        {
-            st.insert(p);
-        }else {
-            return true;
+    bool isPathCrossing(string path) {
+        set<pair<int, int>> visited;
+
+        int x = 0, y = 0;
+        visited.insert({x, y});
+
+        for (char c : path) {
+            if (c == 'N') y++;
+            else if (c == 'S') y--;
+            else if (c == 'E') x++;
+            else if (c == 'W') x--;
+
+            if (!visited.insert({x, y}).second)
+                return true;
         }
-    }
-    return false ;
+
+        return false;
     }
 };
