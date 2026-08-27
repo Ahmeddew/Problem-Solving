@@ -57,6 +57,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmeddew/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ahmeddew/Problem-Solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ahmeddew/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -209,6 +210,7 @@
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Ahmeddew/Problem-Solving/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1399-count-largest-group](https://github.com/Ahmeddew/Problem-Solving/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ahmeddew/Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
