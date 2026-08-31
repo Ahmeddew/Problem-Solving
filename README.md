@@ -60,6 +60,7 @@
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ahmeddew/Problem-Solving/tree/master/1266-minimum-time-visiting-all-points) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ahmeddew/Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ahmeddew/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
@@ -139,6 +140,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/Ahmeddew/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ahmeddew/Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/Ahmeddew/Problem-Solving/tree/master/1399-count-largest-group) |
@@ -272,6 +274,7 @@
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Ahmeddew/Problem-Solving/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ahmeddew/Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ahmeddew/Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
