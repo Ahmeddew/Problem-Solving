@@ -226,6 +226,7 @@
 | [0069-sqrtx](https://github.com/Ahmeddew/Problem-Solving/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Ahmeddew/Problem-Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ahmeddew/Problem-Solving/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
@@ -396,6 +397,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ahmeddew/Problem-Solving/tree/master/0231-power-of-two) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Stack
 |  |
@@ -454,6 +456,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ahmeddew/Problem-Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ahmeddew/Problem-Solving/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0509-fibonacci-number) |
