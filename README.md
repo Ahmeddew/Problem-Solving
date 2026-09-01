@@ -123,6 +123,7 @@
 | [0049-group-anagrams](https://github.com/Ahmeddew/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ahmeddew/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0219-contains-duplicate-ii) |
@@ -224,6 +225,7 @@
 | [0066-plus-one](https://github.com/Ahmeddew/Problem-Solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ahmeddew/Problem-Solving/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Ahmeddew/Problem-Solving/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
@@ -337,6 +339,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ahmeddew/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ahmeddew/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -506,4 +509,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0022-generate-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
