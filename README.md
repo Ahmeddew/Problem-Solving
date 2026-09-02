@@ -173,6 +173,7 @@
 | [0049-group-anagrams](https://github.com/Ahmeddew/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ahmeddew/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ahmeddew/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Ahmeddew/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ahmeddew/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -359,6 +360,7 @@
 | [0022-generate-parentheses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Ahmeddew/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Ahmeddew/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0509-fibonacci-number) |
@@ -453,6 +455,7 @@
 | [0039-combination-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ahmeddew/Problem-Solving/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ahmeddew/Problem-Solving/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/Ahmeddew/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |
 | ------- |
