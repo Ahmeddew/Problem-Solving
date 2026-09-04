@@ -174,6 +174,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Ahmeddew/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ahmeddew/Problem-Solving/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ahmeddew/Problem-Solving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ahmeddew/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Ahmeddew/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ahmeddew/Problem-Solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ahmeddew/Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ahmeddew/Problem-Solving/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0202-happy-number) |
@@ -402,6 +404,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ahmeddew/Problem-Solving/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Ahmeddew/Problem-Solving/tree/master/0231-power-of-two) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Stack
@@ -441,6 +444,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ahmeddew/Problem-Solving/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ahmeddew/Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
