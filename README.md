@@ -90,6 +90,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [4024-nearest-available-drone](https://github.com/Ahmeddew/Problem-Solving/tree/master/4024-nearest-available-drone) |
 ## Design
 |  |
 | ------- |
@@ -455,6 +456,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
+| [4024-nearest-available-drone](https://github.com/Ahmeddew/Problem-Solving/tree/master/4024-nearest-available-drone) |
 ## Backtracking
 |  |
 | ------- |
