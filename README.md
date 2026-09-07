@@ -248,6 +248,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ahmeddew/Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2396-strictly-palindromic-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -362,6 +363,7 @@
 | [1768-merge-strings-alternately](https://github.com/Ahmeddew/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ahmeddew/Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2396-strictly-palindromic-number) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
@@ -532,4 +534,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0202-happy-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
