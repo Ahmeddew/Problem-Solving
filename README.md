@@ -90,6 +90,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 | [4024-nearest-available-drone](https://github.com/Ahmeddew/Problem-Solving/tree/master/4024-nearest-available-drone) |
 ## Design
 |  |
@@ -116,6 +117,7 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3903-smallest-stable-index-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
