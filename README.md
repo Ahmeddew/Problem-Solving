@@ -32,6 +32,7 @@
 | [0228-summary-ranges](https://github.com/Ahmeddew/Problem-Solving/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Ahmeddew/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ahmeddew/Problem-Solving/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Ahmeddew/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -271,6 +272,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ahmeddew/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Ahmeddew/Problem-Solving/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
@@ -361,6 +363,7 @@
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ahmeddew/Problem-Solving/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -420,6 +423,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Ahmeddew/Problem-Solving/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Ahmeddew/Problem-Solving/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Ahmeddew/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Stack
@@ -545,8 +549,13 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 ## Brainteaser
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2396-strictly-palindromic-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
