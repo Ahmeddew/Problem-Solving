@@ -44,6 +44,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Ahmeddew/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Ahmeddew/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Ahmeddew/Problem-Solving/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Ahmeddew/Problem-Solving/tree/master/0705-design-hashset) |
@@ -145,6 +146,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/Ahmeddew/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Ahmeddew/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Ahmeddew/Problem-Solving/tree/master/0705-design-hashset) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -324,6 +326,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Ahmeddew/Problem-Solving/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Ahmeddew/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/Ahmeddew/Problem-Solving/tree/master/0937-reorder-data-in-log-files) |
@@ -417,6 +420,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Ahmeddew/Problem-Solving/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Ahmeddew/Problem-Solving/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/Ahmeddew/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Stack
 |  |
