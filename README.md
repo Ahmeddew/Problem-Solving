@@ -143,6 +143,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Ahmeddew/Problem-Solving/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ahmeddew/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
@@ -195,6 +196,7 @@
 | [0344-reverse-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Ahmeddew/Problem-Solving/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Ahmeddew/Problem-Solving/tree/master/0409-longest-palindrome) |
@@ -230,6 +232,7 @@
 | [0169-majority-element](https://github.com/Ahmeddew/Problem-Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ahmeddew/Problem-Solving/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
@@ -531,6 +534,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ahmeddew/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Newton's Method
 |  |
 | ------- |
