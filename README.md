@@ -244,6 +244,7 @@
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ahmeddew/Problem-Solving/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ahmeddew/Problem-Solving/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
@@ -540,6 +541,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0292-nim-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ahmeddew/Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Geometry
 |  |
@@ -558,9 +560,22 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2396-strictly-palindromic-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
