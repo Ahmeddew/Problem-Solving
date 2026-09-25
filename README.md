@@ -201,6 +201,7 @@
 | [0392-is-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Ahmeddew/Problem-Solving/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Ahmeddew/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
@@ -257,6 +258,7 @@
 | [0326-power-of-three](https://github.com/Ahmeddew/Problem-Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ahmeddew/Problem-Solving/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Ahmeddew/Problem-Solving/tree/master/0836-rectangle-overlap) |
@@ -482,6 +484,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ahmeddew/Problem-Solving/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ahmeddew/Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
