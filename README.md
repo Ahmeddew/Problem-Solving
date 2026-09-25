@@ -261,6 +261,7 @@
 | [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Ahmeddew/Problem-Solving/tree/master/0836-rectangle-overlap) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Ahmeddew/Problem-Solving/tree/master/1247-minimum-swaps-to-make-strings-equal) |
