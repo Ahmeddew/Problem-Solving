@@ -55,6 +55,7 @@
 | [0875-koko-eating-bananas](https://github.com/Ahmeddew/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0896-monotonic-array) |
+| [0908-smallest-range-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
 | [0937-reorder-data-in-log-files](https://github.com/Ahmeddew/Problem-Solving/tree/master/0937-reorder-data-in-log-files) |
@@ -268,6 +269,7 @@
 | [0507-perfect-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Ahmeddew/Problem-Solving/tree/master/0836-rectangle-overlap) |
+| [0908-smallest-range-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/0908-smallest-range-i) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Ahmeddew/Problem-Solving/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ahmeddew/Problem-Solving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
