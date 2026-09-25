@@ -203,6 +203,7 @@
 | [0409-longest-palindrome](https://github.com/Ahmeddew/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Ahmeddew/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
