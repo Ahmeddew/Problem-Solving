@@ -50,6 +50,7 @@
 | [0704-binary-search](https://github.com/Ahmeddew/Problem-Solving/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Ahmeddew/Problem-Solving/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Ahmeddew/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/Ahmeddew/Problem-Solving/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/Ahmeddew/Problem-Solving/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Ahmeddew/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
@@ -208,6 +209,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/Ahmeddew/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Ahmeddew/Problem-Solving/tree/master/0771-jewels-and-stones) |
+| [0821-shortest-distance-to-a-character](https://github.com/Ahmeddew/Problem-Solving/tree/master/0821-shortest-distance-to-a-character) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
 | [0937-reorder-data-in-log-files](https://github.com/Ahmeddew/Problem-Solving/tree/master/0937-reorder-data-in-log-files) |
 | [0942-di-string-match](https://github.com/Ahmeddew/Problem-Solving/tree/master/0942-di-string-match) |
@@ -392,6 +394,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/Ahmeddew/Problem-Solving/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/Ahmeddew/Problem-Solving/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/Ahmeddew/Problem-Solving/tree/master/1768-merge-strings-alternately) |
