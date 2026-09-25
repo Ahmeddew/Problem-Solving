@@ -153,6 +153,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ahmeddew/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Ahmeddew/Problem-Solving/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/Ahmeddew/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/Ahmeddew/Problem-Solving/tree/master/0981-time-based-key-value-store) |
@@ -206,6 +207,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Ahmeddew/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/Ahmeddew/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
 | [0937-reorder-data-in-log-files](https://github.com/Ahmeddew/Problem-Solving/tree/master/0937-reorder-data-in-log-files) |
 | [0942-di-string-match](https://github.com/Ahmeddew/Problem-Solving/tree/master/0942-di-string-match) |
