@@ -255,6 +255,7 @@
 | [0231-power-of-two](https://github.com/Ahmeddew/Problem-Solving/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ahmeddew/Problem-Solving/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ahmeddew/Problem-Solving/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0509-fibonacci-number) |
@@ -440,6 +441,7 @@
 | [0067-add-binary](https://github.com/Ahmeddew/Problem-Solving/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Ahmeddew/Problem-Solving/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Ahmeddew/Problem-Solving/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Ahmeddew/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Stack
@@ -507,6 +509,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Ahmeddew/Problem-Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ahmeddew/Problem-Solving/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ahmeddew/Problem-Solving/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
