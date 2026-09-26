@@ -2,7 +2,7 @@ class Solution {
 public:
     int findShortestSubArray(vector<int>& nums) {
         // find degree 
-       map<int,int>freq;
+       unordered_map<int,int>freq;
        for(int i :nums)freq[i]++;
        int k=-1;
        for(auto &[_,v] :freq){
@@ -10,7 +10,7 @@ public:
        }
 
         // find shortest subarray that has a number apear k time  
-        map<int,int>mp ;
+        unordered_map<int,int>mp ;
         int l=0,ans=INT_MAX; 
         for(int r= 0; r<nums.size();r++){
              mp[nums[r]]++;
