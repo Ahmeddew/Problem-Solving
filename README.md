@@ -47,6 +47,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Ahmeddew/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Ahmeddew/Problem-Solving/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Ahmeddew/Problem-Solving/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Ahmeddew/Problem-Solving/tree/master/0724-find-pivot-index) |
@@ -154,6 +155,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ahmeddew/Problem-Solving/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Ahmeddew/Problem-Solving/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Ahmeddew/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
