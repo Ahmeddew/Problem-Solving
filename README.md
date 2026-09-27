@@ -263,6 +263,7 @@
 | [0189-rotate-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ahmeddew/Problem-Solving/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ahmeddew/Problem-Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ahmeddew/Problem-Solving/tree/master/0342-power-of-four) |
@@ -488,6 +489,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
@@ -497,6 +499,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ahmeddew/Problem-Solving/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
