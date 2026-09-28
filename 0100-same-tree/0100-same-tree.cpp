@@ -14,7 +14,8 @@ public:
 bool dfs(TreeNode* p, TreeNode* q){
     if (!p && !q )return true;
     if (!p || !q)return false;
-    return (p->val == q->val && dfs(p->left,q->left) && dfs(p->right ,q->right));
+    if (p->val != q->val)return false;
+    return (  dfs(p->left,q->left) && dfs(p->right ,q->right));
 }
     bool isSameTree(TreeNode* p, TreeNode* q) {
         return dfs(p,q);
