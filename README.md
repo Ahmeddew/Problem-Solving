@@ -290,6 +290,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ahmeddew/Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ahmeddew/Problem-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Ahmeddew/Problem-Solving/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -420,6 +421,7 @@
 | [0392-is-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0509-fibonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -514,6 +516,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4024-nearest-available-drone](https://github.com/Ahmeddew/Problem-Solving/tree/master/4024-nearest-available-drone) |
 ## Backtracking
 |  |
