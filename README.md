@@ -236,6 +236,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ahmeddew/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ahmeddew/Problem-Solving/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Ahmeddew/Problem-Solving/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2864-maximum-odd-binary-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2864-maximum-odd-binary-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -345,6 +346,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ahmeddew/Problem-Solving/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -482,6 +484,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ahmeddew/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -537,6 +540,7 @@
 | [0046-permutations](https://github.com/Ahmeddew/Problem-Solving/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ahmeddew/Problem-Solving/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/Ahmeddew/Problem-Solving/tree/master/0131-palindrome-partitioning) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Recursion
 |  |
 | ------- |
