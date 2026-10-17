@@ -246,6 +246,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ahmeddew/Problem-Solving/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -481,6 +482,7 @@
 | [0342-power-of-four](https://github.com/Ahmeddew/Problem-Solving/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Ahmeddew/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ahmeddew/Problem-Solving/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -550,6 +552,7 @@
 | [0077-combinations](https://github.com/Ahmeddew/Problem-Solving/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/Ahmeddew/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ahmeddew/Problem-Solving/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
