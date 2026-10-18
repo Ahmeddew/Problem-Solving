@@ -61,6 +61,7 @@
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
 | [0937-reorder-data-in-log-files](https://github.com/Ahmeddew/Problem-Solving/tree/master/0937-reorder-data-in-log-files) |
 | [0942-di-string-match](https://github.com/Ahmeddew/Problem-Solving/tree/master/0942-di-string-match) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ahmeddew/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ahmeddew/Problem-Solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -380,6 +381,7 @@
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/Ahmeddew/Problem-Solving/tree/master/0937-reorder-data-in-log-files) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ahmeddew/Problem-Solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1331-rank-transform-of-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -528,6 +530,7 @@
 | [0258-add-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0682-baseball-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ahmeddew/Problem-Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ahmeddew/Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -591,6 +594,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ahmeddew/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Newton's Method
 |  |
 | ------- |
