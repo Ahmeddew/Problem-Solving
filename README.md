@@ -692,4 +692,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ahmeddew/Problem-Solving/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
