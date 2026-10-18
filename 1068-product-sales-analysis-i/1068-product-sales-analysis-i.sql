@@ -1,0 +1,1 @@
+select product_name ,year ,price from Product inner join Sales on product.product_id  =Sales.product_id  
