@@ -244,6 +244,7 @@
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ahmeddew/Problem-Solving/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Ahmeddew/Problem-Solving/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2785-sort-vowels-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2785-sort-vowels-in-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2864-maximum-odd-binary-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -394,6 +395,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2785-sort-vowels-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
