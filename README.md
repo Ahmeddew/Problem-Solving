@@ -82,6 +82,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1630-arithmetic-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1630-arithmetic-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Ahmeddew/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ahmeddew/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
@@ -357,6 +358,7 @@
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ahmeddew/Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ahmeddew/Problem-Solving/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -394,6 +396,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ahmeddew/Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1630-arithmetic-subarrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -435,6 +438,7 @@
 | [0881-boats-to-save-people](https://github.com/Ahmeddew/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/Ahmeddew/Problem-Solving/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/Ahmeddew/Problem-Solving/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ahmeddew/Problem-Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ahmeddew/Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
