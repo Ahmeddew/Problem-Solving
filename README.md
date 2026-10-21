@@ -169,6 +169,7 @@
 | [0929-unique-email-addresses](https://github.com/Ahmeddew/Problem-Solving/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/Ahmeddew/Problem-Solving/tree/master/0981-time-based-key-value-store) |
+| [1079-letter-tile-possibilities](https://github.com/Ahmeddew/Problem-Solving/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ahmeddew/Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
@@ -229,6 +230,7 @@
 | [0942-di-string-match](https://github.com/Ahmeddew/Problem-Solving/tree/master/0942-di-string-match) |
 | [0981-time-based-key-value-store](https://github.com/Ahmeddew/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Ahmeddew/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
+| [1079-letter-tile-possibilities](https://github.com/Ahmeddew/Problem-Solving/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahmeddew/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Ahmeddew/Problem-Solving/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -263,6 +265,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [1079-letter-tile-possibilities](https://github.com/Ahmeddew/Problem-Solving/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/Ahmeddew/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/Ahmeddew/Problem-Solving/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/1512-number-of-good-pairs) |
@@ -559,6 +562,7 @@
 | [0046-permutations](https://github.com/Ahmeddew/Problem-Solving/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ahmeddew/Problem-Solving/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/Ahmeddew/Problem-Solving/tree/master/0131-palindrome-partitioning) |
+| [1079-letter-tile-possibilities](https://github.com/Ahmeddew/Problem-Solving/tree/master/1079-letter-tile-possibilities) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ahmeddew/Problem-Solving/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
