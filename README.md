@@ -95,6 +95,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Ahmeddew/Problem-Solving/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2717-semi-ordered-permutation](https://github.com/Ahmeddew/Problem-Solving/tree/master/2717-semi-ordered-permutation) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ahmeddew/Problem-Solving/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -549,6 +550,7 @@
 | [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ahmeddew/Problem-Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ahmeddew/Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2717-semi-ordered-permutation](https://github.com/Ahmeddew/Problem-Solving/tree/master/2717-semi-ordered-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
