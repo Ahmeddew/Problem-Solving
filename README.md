@@ -220,6 +220,7 @@
 | [0392-is-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Ahmeddew/Problem-Solving/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Ahmeddew/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -291,6 +292,7 @@
 | [0326-power-of-three](https://github.com/Ahmeddew/Problem-Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ahmeddew/Problem-Solving/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ahmeddew/Problem-Solving/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Ahmeddew/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0507-perfect-number) |
@@ -544,6 +546,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Ahmeddew/Problem-Solving/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Ahmeddew/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/0950-reveal-cards-in-increasing-order) |
