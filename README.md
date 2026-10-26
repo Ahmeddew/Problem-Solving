@@ -223,6 +223,7 @@
 | [0412-fizz-buzz](https://github.com/Ahmeddew/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0482-license-key-formatting](https://github.com/Ahmeddew/Problem-Solving/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Ahmeddew/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/Ahmeddew/Problem-Solving/tree/master/0541-reverse-string-ii) |
