@@ -251,6 +251,7 @@
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ahmeddew/Problem-Solving/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Ahmeddew/Problem-Solving/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2409-count-days-spent-together](https://github.com/Ahmeddew/Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [2785-sort-vowels-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2785-sort-vowels-in-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2864-maximum-odd-binary-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -310,6 +311,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Ahmeddew/Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
