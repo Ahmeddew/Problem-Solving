@@ -99,6 +99,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ahmeddew/Problem-Solving/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Ahmeddew/Problem-Solving/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
@@ -136,6 +137,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Ahmeddew/Problem-Solving/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -505,6 +507,7 @@
 | [0342-power-of-four](https://github.com/Ahmeddew/Problem-Solving/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Ahmeddew/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahmeddew/Problem-Solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ahmeddew/Problem-Solving/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
@@ -531,6 +534,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ahmeddew/Problem-Solving/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -619,6 +623,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Ahmeddew/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Ahmeddew/Problem-Solving/tree/master/0950-reveal-cards-in-increasing-order) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Newton's Method
 |  |
 | ------- |
