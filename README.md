@@ -40,6 +40,7 @@
 | [0414-third-maximum-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ahmeddew/Problem-Solving/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahmeddew/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
@@ -299,6 +300,7 @@
 | [0412-fizz-buzz](https://github.com/Ahmeddew/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Ahmeddew/Problem-Solving/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Ahmeddew/Problem-Solving/tree/master/0836-rectangle-overlap) |
