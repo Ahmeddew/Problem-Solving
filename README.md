@@ -105,6 +105,7 @@
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Ahmeddew/Problem-Solving/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ahmeddew/Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ahmeddew/Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -195,6 +196,7 @@
 | [3146-permutation-difference-between-two-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ahmeddew/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ahmeddew/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ahmeddew/Problem-Solving/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -482,6 +484,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ahmeddew/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ahmeddew/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -565,6 +568,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ahmeddew/Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2717-semi-ordered-permutation](https://github.com/Ahmeddew/Problem-Solving/tree/master/2717-semi-ordered-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -635,6 +639,7 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Ahmeddew/Problem-Solving/tree/master/0705-design-hashset) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Memoization
 |  |
 | ------- |
@@ -736,4 +741,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ahmeddew/Problem-Solving/tree/master/0056-merge-intervals) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
