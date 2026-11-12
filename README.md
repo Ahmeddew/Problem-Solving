@@ -100,6 +100,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ahmeddew/Problem-Solving/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ahmeddew/Problem-Solving/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Ahmeddew/Problem-Solving/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ahmeddew/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
