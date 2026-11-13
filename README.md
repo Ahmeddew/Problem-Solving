@@ -98,6 +98,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ahmeddew/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2717-semi-ordered-permutation](https://github.com/Ahmeddew/Problem-Solving/tree/master/2717-semi-ordered-permutation) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ahmeddew/Problem-Solving/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ahmeddew/Problem-Solving/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -192,6 +193,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Ahmeddew/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ahmeddew/Problem-Solving/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ahmeddew/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ahmeddew/Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ahmeddew/Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
