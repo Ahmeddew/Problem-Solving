@@ -113,6 +113,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Ahmeddew/Problem-Solving/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3903-smallest-stable-index-i) |
+| [3921-score-validator](https://github.com/Ahmeddew/Problem-Solving/tree/master/3921-score-validator) |
 | [4024-nearest-available-drone](https://github.com/Ahmeddew/Problem-Solving/tree/master/4024-nearest-available-drone) |
 ## Design
 |  |
@@ -269,6 +270,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ahmeddew/Problem-Solving/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3921-score-validator](https://github.com/Ahmeddew/Problem-Solving/tree/master/3921-score-validator) |
 ## Counting
 |  |
 | ------- |
@@ -569,6 +571,7 @@
 | [2717-semi-ordered-permutation](https://github.com/Ahmeddew/Problem-Solving/tree/master/2717-semi-ordered-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3921-score-validator](https://github.com/Ahmeddew/Problem-Solving/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
 | ------- |
