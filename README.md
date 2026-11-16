@@ -262,6 +262,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahmeddew/Problem-Solving/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ahmeddew/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ahmeddew/Problem-Solving/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Ahmeddew/Problem-Solving/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2409-count-days-spent-together](https://github.com/Ahmeddew/Problem-Solving/tree/master/2409-count-days-spent-together) |
@@ -577,6 +578,7 @@
 | [1260-shift-2d-grid](https://github.com/Ahmeddew/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ahmeddew/Problem-Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ahmeddew/Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2717-semi-ordered-permutation](https://github.com/Ahmeddew/Problem-Solving/tree/master/2717-semi-ordered-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
