@@ -333,6 +333,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/Ahmeddew/Problem-Solving/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ahmeddew/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ahmeddew/Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ahmeddew/Problem-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -581,6 +582,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ahmeddew/Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2717-semi-ordered-permutation](https://github.com/Ahmeddew/Problem-Solving/tree/master/2717-semi-ordered-permutation) |
+| [3360-stone-removal-game](https://github.com/Ahmeddew/Problem-Solving/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ahmeddew/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ahmeddew/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3921-score-validator](https://github.com/Ahmeddew/Problem-Solving/tree/master/3921-score-validator) |
